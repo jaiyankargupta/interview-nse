@@ -1,18 +1,72 @@
-# Resume Overview
+# Resume Overview - Jaiyankar Gupta
 
-## Introduction
+## Personal Introduction
 
-I am a passionate **Full-Stack Software Engineer** with expertise in building modern, scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). My portfolio demonstrates proficiency in developing real-time applications, implementing secure authentication systems, creating intuitive user interfaces, and designing efficient database architectures.
+**Name:** Jaiyankar Gupta  
+**Current Role:** Full-Stack Software Developer (Self-Taught/Independent)  
+**Education:** [Your Degree Name] in [Your Branch], [Your College/University Name]  
+**Location:** [Your City, State]  
+**Email:** [your.email@example.com]  
+**GitHub:** [github.com/yourusername]  
+**LinkedIn:** [linkedin.com/in/yourprofile]  
+**Portfolio:** [your-portfolio-website.com]  
 
-With hands-on experience in three major full-stack projects, I have developed strong skills in:
+---
+
+## Professional Summary
+
+I am **Jaiyankar Gupta**, a passionate and self-motivated **Full-Stack Software Engineer** with comprehensive expertise in building modern, scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). As a dedicated self-learner, I have independently mastered cutting-edge web technologies and delivered three production-ready applications that demonstrate my ability to architect, develop, and deploy complete software solutions.
+
+### Educational Background
+
+I completed my [Degree Name] in [Branch/Specialization] from [College/University Name], where I developed a strong foundation in:
+- **Programming Fundamentals:** Data Structures, Algorithms, Object-Oriented Programming
+- **Computer Science Concepts:** Operating Systems, Database Management, Computer Networks
+- **Software Engineering:** System Design, Software Development Lifecycle, Testing Methodologies
+- **Mathematics & Logic:** Discrete Mathematics, Linear Algebra, Probability & Statistics
+
+While my formal education provided the theoretical groundwork, I am largely **self-taught in modern web development**, having learned the complete MERN stack, cloud technologies, and industry best practices through:
+- Official documentation and technical resources
+- Online courses and certifications
+- Open-source project contributions
+- Hands-on project development
+- Technical communities and peer learning
+
+### Technical Expertise
+
+With hands-on experience across three major full-stack projects spanning different domains (Financial Technology, Trading Platforms, and Real-Time Communication), I have developed strong expertise in:
+
+**Core Technical Skills:**
 - **Real-time communication** using WebSockets and Socket.io
-- **Secure authentication** with Firebase and JWT
+- **Secure authentication** with Firebase and JWT (JSON Web Tokens)
 - **RESTful API design** and integration with external services
-- **Responsive UI development** using React, Material-UI, and TailwindCSS
-- **Database modeling** with MongoDB and Mongoose
+- **Responsive UI development** using React, Material-UI, Bootstrap, and TailwindCSS
+- **Database modeling** with MongoDB and Mongoose ODM
 - **Real-time data visualization** with Chart.js and HighCharts
+- **State management** with React Context API and Hooks
+- **Version control** with Git and GitHub
 
-My projects showcase production-ready applications with clean code architecture, comprehensive error handling, and user-centric design. I am committed to writing maintainable, scalable code and continuously learning new technologies to solve complex problems.
+**Professional Approach:**
+My projects showcase production-ready applications with:
+- Clean, maintainable code architecture
+- Comprehensive error handling and validation
+- Enterprise-grade security implementations
+- User-centric design principles
+- Scalable system architecture
+- Proper documentation and code comments
+
+I am committed to writing code that not only works but is also secure, performant, and easy to maintain. I continuously learn new technologies and best practices to stay current with industry standards and deliver solutions that meet real-world business needs.
+
+### Career Objective
+
+I am seeking a challenging role in **Application Development** or **Data Engineering/Analytics** where I can:
+- Apply my full-stack development skills to build impactful software solutions
+- Work on large-scale, mission-critical systems that serve millions of users
+- Collaborate with experienced engineers and learn from industry best practices
+- Contribute to meaningful projects in domains like FinTech, Trading Systems, or Data Analytics
+- Grow from a developer to a technical leader over time
+
+I am particularly interested in opportunities at **National Stock Exchange (NSE)** and similar organizations where technology directly impacts financial markets and empowers individuals.
 
 ---
 
